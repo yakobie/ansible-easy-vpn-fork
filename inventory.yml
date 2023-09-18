@@ -36,7 +36,7 @@ all:
 
     adguard_host: "adguard.{{ root_host }}"
 
-    wireguard_port: "51820"
+    wireguard_port: "443"
 
     # Possible choices: cloudflare, quad9, google
     #
